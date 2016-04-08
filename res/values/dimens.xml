@@ -182,7 +182,7 @@
     <dimen name="timeline_grid_vertical_space">3dp</dimen>
     <dimen name="slot_width">174dp</dimen>
     <dimen name="slot_height">174dp</dimen>
-    <dimen name="toolbar_height">84dp</dimen>
+    <dimen name="toolbar_height">80dp</dimen>
     <dimen name="slot_width_album">116dp</dimen>
     <dimen name="slot_height_album">116dp</dimen>
 
